@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+main {
+    text-align: center;
+    padding:20% ;
+}
+footer{
+    
+    text-align: center;
+}
+.btn{
+    padding: 10px 15px;
+    border-radius: 10px;
+}
+.dark-Mode{
+    background: black;
+    color:white;
+}
+
+.dark-Mode button{
+    background: darkgray;
+}
+
